@@ -47,4 +47,11 @@ Upload da Imagem do Produto</br>
 Autenticação</br>
 Autorização</br>
 Habilitando CORS</br>
-Publicando a API</br>
+Publicando a API</br></br>
+bancos de dados nosql MongoDB<br>
+Para enviar os emailsSendGrid</br>
+Configurações scripts package.json -> </br>
+"scripts": {
+    "start": "node ./bin/server.js",</br>
+    "NG": "nodemon ./bin/server.js"
+  },
