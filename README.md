@@ -52,6 +52,6 @@ bancos de dados nosql MongoDB
 Para enviar os emailsSendGrid
 Configurações scripts package.json ->
 "scripts": {
-    "start": "node ./bin/server.js",
+    "start": "node ./bin/server.js",</br>
     "NG": "nodemon ./bin/server.js"
   },
